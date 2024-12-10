@@ -10,7 +10,7 @@ const config: Config = {
   favicon: "img/favicon.svg",
 
   url: "https://docs.getaurora.dev/",
-  baseUrl: "/aurora-docusaurus",
+  baseUrl: "/aurora-docusaurus/",
 
   future: {
     experimental_faster: true,
