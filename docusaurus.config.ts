@@ -10,15 +10,15 @@ const config: Config = {
   favicon: "img/favicon.svg",
 
   url: "https://docs.getaurora.dev/",
-  baseUrl: "/",
+  baseUrl: "/aurora-docusaurus",
 
   future: {
     experimental_faster: true,
   },
 
   // GitHub pages deployment config.
-  organizationName: "ublue-os",
-  projectName: "aurora-docs",
+  organizationName: "tulilirockz",
+  projectName: "aurora-docusaurus",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
